@@ -10,7 +10,7 @@ from urllib.request import Request, urlopen
 import re
 
 base = "https://api.genius.com"
-client_access_token = "3MP5a-00vdf3hzeKRDAgMG-fBJh37ZgYx_6_4mIW6YmTI4Rge0s-tOjSUbwIhL-t"
+client_access_token = "GENERATE YOUR TOKEN AND PASTE IT HERE"
 url_list = []
 
 def search(artist_name):
