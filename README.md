@@ -2,7 +2,7 @@
 
 This is a small project, which aim was to have some fun by scraping song lyrics from Genius and then use them to train Recurrent Networks to generate some new ones with Tensorflow.
 
-Credit to @ANOVAProjectUSYD for some parts of the code!
+**Credit to @ANOVAProjectUSYD for some parts of the code!**
 ### Quick outline
 
 Within these files you will find a dataset with artist's names and about 1200 song lyrics that we scraped with the crawler that can be find in this repository.
