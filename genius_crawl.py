@@ -59,11 +59,12 @@ def retrieve_lyrics():
             lyrics = re.sub('(\[.*?\])*','', text)
             song_json["Lyrics"].append(lyrics)
 
-    #Extract Title of the song, used later to name the file with lyrics instead of a number
+    #Extract Title of the song, used later to name the file with title instead of a number
         '''for title in soup.findAll('title'):
             song_name = title.text.replace(' Lyrics | Genius Lyrics','')
             print(song_name)'''
         i += 1
+    #If you want filenames to be song titles delete this lane below and unquote the code above
         song_name = str(i)
         print(song_name)
         try:# Writing JSON data
