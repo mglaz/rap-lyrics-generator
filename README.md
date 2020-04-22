@@ -22,8 +22,8 @@ If you want to use your gpu to train your own model aste these commands into you
 ### How to run the project?
 
 + Clone this repository  ```git clone https://github.com/mglaz/rap_lyrics_final```
-+ Open Jupyter Notebook  ```jupyter notebook``` 
-+ Open 'lyrics_model_working.ipynb' 
++ Open Jupyter Notebook  ```jupyter notebook``` (in cmd/terminal)
++ Open 'lyrics_model_working_gpu.ipynb' 
 + Change the directory variable to the path with lyric files on your computer
 + If you want to have some fun with the project run all of the cells and change some parameters
 
