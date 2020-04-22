@@ -1,6 +1,6 @@
 # Rap Lyrics Generator 
 
-This was made as our final project to class taught by Leon Ciechanowski(github.com/leontikos). It is a small project, which aim was to have some fun by scraping song lyrics from Genius and then use them to train Recurrent Networks to generate some new ones with Tensorflow.
+This was made as our final project to a class taught by Leon Ciechanowski(github.com/leontikos). It is a small project, which aim was to have some fun by scraping song lyrics from Genius and then use them to train Recurrent Networks to generate some new ones with Tensorflow.
 
 Credit to **@ANOVAProjectUSYD** for some parts of the code!
 ### Quick outline
