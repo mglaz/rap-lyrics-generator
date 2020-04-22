@@ -12,6 +12,7 @@ Jupyter Notebook in which you will find code that was used to create it and use 
 ### Install dependencies
 
 ``` pip install -r requirements.txt```
+
 If you want to use your gpu to train your own model aste these commands into your command prompt:
  - SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;%PATH%
  - SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\extras\CUPTI\libx64;%PATH%
