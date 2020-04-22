@@ -13,10 +13,10 @@ Jupyter Notebook in which you will find code that was used to create it and use 
 
 ``` pip install -r requirements.txt```
 if you want to use your gpu paste these commands into your command prompt:
-SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;%PATH%
-SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\extras\CUPTI\libx64;%PATH%
-SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include;%PATH%
-SET PATH=C:\tools\cuda\bin;%PATH%
+ - SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;%PATH%
+ - SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\extras\CUPTI\libx64;%PATH%
+ - SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include;%PATH%
+ - SET PATH=C:\tools\cuda\bin;%PATH%
 
 ### How to run the project?
 
