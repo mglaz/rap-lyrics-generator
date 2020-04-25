@@ -34,6 +34,47 @@ If you want to just test the model, use this command (it is provided in the note
 <0.6 the lyrics will leak into the model and it can steal existing lyrics. On the other hand majority of the text generated above 1.65 is mostly random gibberish :D
 Also, don't forget to change the first word according to which the model will start generating text. It sometimes can affect the results tremendously. Have some fun with it!
 
+### Exemplary Output (Temperature = 0.65 , starting_string = "I", characters=1500)
+```
+I think I never knew
+I don't know if I'm high, forget that month I don't wanna be
+You gotta do me a flow, you can see in high school
+Over like the Carter Ither thinking some more clouds
+But that court like girls and start accept it, all the same last night
+Hold up, tell 'em, they squeeze me
+And I ain't even rock with my feelings
+Get more bottles, they be ready for the feel
+So crazy got my hands get it
+
+
+I know I gotta keep my shawty on go, go, go
+Drop the top when it's commas leading to Earth Gramm with the last time
+Like I still do fraud Fraud
+Flyin' private jets, sip
+Shoppin' on the tube, the bottom bitch
+She got a bad bitch like chronic smile
+
+
+They be too against my own swall, got rotable in your mouth
+I feel niggas I'm just looking gorgeous
+But if I can happen at the night show Ooh-ooh-ooh
+Wonder if you ask you a fucking problem-cole
+I'm the shit, I get change, boy, that's what they touchin' them
+And I feel like I'm hugging on that Chevy
+Trapph to vacation I don't even know her mama
+Ooh, oh my God, it's over
+Watch out, lil bitch
+You were better off without y'all
+I been thinkin' I've got the drip on sink
+Now the war isn't man-with your friends
+So now the pressure on your wint, word to the line and
+Same time you had down and I work at the grave back?
+I'll let you pissed on my mind, I'ma be in my feelings
+Not the time of your life, time of your life
+But you a methor
+You say you tell anyone inside them killers when I was supposed to be
+And I'm the type that lived my thing
+```
 ### How to use the crawler to scrape lyrics from Genius?
 
 + Get your Token for the API here : [link](https://docs.genius.com/)
